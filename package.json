@@ -1,0 +1,15 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Starter discord bot program.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "startercode",
+    "discord"
+  ],
+  "author": "Tanner Disney",
+  "license": "ISC"
+}
